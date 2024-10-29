@@ -1,0 +1,19 @@
+.footer {
+  background: #9A0909;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 50px 50px;
+  color: #EFEFEF;
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: #EFEFEF;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 10px 10px;
+}
